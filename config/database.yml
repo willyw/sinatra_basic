@@ -1,0 +1,7 @@
+development:
+  adapter: mysql
+  database: service_dev
+  
+test:
+  adapter: mysql
+  database: service_test
